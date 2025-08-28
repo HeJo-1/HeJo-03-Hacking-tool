@@ -8,4 +8,3 @@ openpyxl
 cryptography
 colorama
 pycryptodome
-win32crypt
