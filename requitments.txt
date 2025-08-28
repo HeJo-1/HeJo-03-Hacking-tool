@@ -1,0 +1,11 @@
+selenium
+pywebview
+requests
+pyTelegramBotAPI
+aiohttp
+beautifulsoup4
+openpyxl
+cryptography
+colorama
+pycryptodome
+win32crypt
